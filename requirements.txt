@@ -1,0 +1,7 @@
+requests
+ddgs
+trafilatura
+reportlab
+pypdf
+python-pptx
+streamlit>=1.40
